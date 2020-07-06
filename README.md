@@ -1,1 +1,2 @@
-# nagios
+# nagios with postfix configured - gmail
+
